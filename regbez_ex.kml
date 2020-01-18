@@ -106,12 +106,6 @@
 <td>093</td>
 </tr></table></center>]]></description>
 <Style>
-<IconStyle>
-<scale>0.8</scale>
-</IconStyle>
-<LabelStyle>
-<scale>1.0</scale>
-</LabelStyle>
 <LineStyle>
 <color>ff8b0000</color>
 <width>3</width>
