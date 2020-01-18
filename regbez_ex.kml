@@ -107,12 +107,12 @@
 </tr></table></center>]]></description>
 <Style>
 <LineStyle>
-<color>ff8b0000</color>
+<color>ff00008b</color>
 <width>3</width>
 <gx:labelVisibility>1</gx:labelVisibility>
 </LineStyle>
 <PolyStyle>
-<color>00ffffff</color>
+<color>ff00008b</color>
 </PolyStyle>
 </Style>
 <ExtendedData>
